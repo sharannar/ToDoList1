@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: gold;
+    padding: 30px 40px;
+    color: black;
+    text-align: center;
+
+
+
+}
+h2{
+    color: rgb(8, 8, 8);
+}
+ul li.checked {
+    background:rgb(132, 159, 212);
+    color:red;
+    text-decoration: line-through;
+}
+
+ container{
+    display: inline;
+ }
+ ul li{
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background-color: whitesmoke;
+    transition: .1s;
+ }
+ 
